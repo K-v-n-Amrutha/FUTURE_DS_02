@@ -1,2 +1,6 @@
-# FUTURE_DS_02
+📊 Customer Churn & Retention Analysis
+
+This project analyzes customer and subscription data to uncover why users churn and what drives long-term retention. Using tools like Microsoft Excel, Python, and Power BI, the analysis explores churn rates, customer segments, cohort behavior, and lifetime trends.
+
+The goal is to generate actionable insights that help businesses reduce churn, improve customer experience, and increase retention. This project simulates real-world analytics work in SaaS and subscription-based companies, focusing on data-driven decision making and business impact.# FUTURE_DS_O2 This project involves analyzing customer and subscription data to understand churn and retention. You will identify why customers leave, segment users, and study lifetime patterns. Using tools like Microsoft Excel, Python, or Power BI, you’ll deliver insights and recommendations to improve retention.# FUTURE_DS_02
 This project involves analyzing customer and subscription data to understand churn and retention. You will identify why customers leave, segment users, and study lifetime patterns. Using tools like Microsoft Excel, Python, or Power BI, you’ll deliver insights and recommendations to improve retention.
